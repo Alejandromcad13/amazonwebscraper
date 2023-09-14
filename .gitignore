@@ -30,6 +30,13 @@ yarn-error.log*
 # vercel
 .vercel
 
+# firebase
+serviceAccountKey.json
+firebase.ts
+firebaseAdmin.ts
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
